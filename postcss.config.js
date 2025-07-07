@@ -1,3 +1,4 @@
+// File: public/manifest.json
 {
   "name": "Kalkulator Harga Jual",
   "short_name": "Harga Jual",
